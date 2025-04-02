@@ -6,6 +6,7 @@ import ChatInput from './components/ChatInput.vue';
 const chatStore = useChatStore();
 </script>
 
+
 <template>
   <div class="chat-container">
     <div class="max-w-4xl mx-auto p-4 md:p-6 h-screen flex flex-col">
